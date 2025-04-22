@@ -202,7 +202,7 @@
 }
 
 .reilaRoadmap .timeline::before {
-    background-color: var(--white)
+    background-color: transparent
 }
 
 
