@@ -52,15 +52,21 @@ Start date info or countdown to the next cohort for urgency.
 
 18. FAQs
 Answer common questions about the program, duration, tools, support, and outcomes.
+
 19. Newsletter / Lead Magnet
 Form to download syllabus or receive updates (e.g., “Get Our Free Bootcamp Guide”).
+
 20. Contact Section
 Contact form or direct contact details (email, phone, chat) for support.
+
 21. Social Proof / Partner Logos
 Logos of hiring partners, tech stacks, or affiliations to build authority.
+
 22. Add to Calendar / Reminder
 Option to set a reminder for upcoming cohort or info session.
+
 23. Blog / Resources Section (Optional)
 Links to blog posts, webinars, or success guides to engage and educate users.
+
 24. Footer
 Logo, quick links, legal (Privacy, Terms), contact info, and social media links.
