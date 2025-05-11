@@ -1,0 +1,66 @@
+ Bootcamp – Intensive, fast-paced training focusing on skill development in a short time
+1. Navbar
+Top navigation with logo, anchor links (e.g., Curriculum, Instructors), and a sticky CTA like “Apply Now”.
+
+2. Hero Section
+Powerful headline, subheadline, background image/video, and a strong CTA (e.g., “Start Your Journey Today”).
+
+3. Bootcamp Overview
+Short summary of what the bootcamp is, its focus, and who it’s for.
+
+4. What You’ll Learn
+Bullet points or icons showing key skills and tools taught during the program.
+
+5. Curriculum / Learning Path
+A week-by-week or module-based breakdown of the course content.
+
+6. Live vs Self-Paced Info
+Clarify if the bootcamp is live, hybrid, or self-paced, and what that means for students.
+
+7. Why Choose This Bootcamp?
+Highlight unique selling points—industry mentors, job guarantees, project-based learning, etc.
+
+8. Instructor Profiles
+Photos, bios, and LinkedIn links of instructors to build trust and credibility.
+
+9. Student Projects / Portfolio Showcase
+Carousel or grid showing real projects created by past students.
+
+10. Career Support
+Details on resume help, job placement, interview prep, and career coaching.
+
+11. Student Testimonials
+Video or written testimonials with photos and success stories.
+
+12. Alumni Success Stories
+Real career outcomes with alumni photos, job titles, and company logos.
+
+13. Pricing & Payment Plans
+Clear pricing, available payment options, scholarships, and financing options.
+
+14. Bootcamp Outcomes / Stats
+Data showing job placement rate, average salary increase, or graduation success.
+
+15. Admissions Process
+Step-by-step guide on how to apply or enroll (e.g., Apply → Interview → Enrolment).
+
+16. Call to Action Banner
+Reinforcing section with a headline and CTA (e.g., “Join the next cohort starting June 1”).
+
+17. Cohort Dates / Countdown Timer
+Start date info or countdown to the next cohort for urgency.
+
+18. FAQs
+Answer common questions about the program, duration, tools, support, and outcomes.
+19. Newsletter / Lead Magnet
+Form to download syllabus or receive updates (e.g., “Get Our Free Bootcamp Guide”).
+20. Contact Section
+Contact form or direct contact details (email, phone, chat) for support.
+21. Social Proof / Partner Logos
+Logos of hiring partners, tech stacks, or affiliations to build authority.
+22. Add to Calendar / Reminder
+Option to set a reminder for upcoming cohort or info session.
+23. Blog / Resources Section (Optional)
+Links to blog posts, webinars, or success guides to engage and educate users.
+24. Footer
+Logo, quick links, legal (Privacy, Terms), contact info, and social media links.
